@@ -1,0 +1,26 @@
+body {
+    font: 18px arial, sans-serif;
+    background: #eee;
+}
+
+.gif-item {
+    float: right;
+    padding: 20px;
+}
+form {
+    width: 25%;
+    float: left;   
+}
+
+button,
+input[type="submit"] {
+    background: red;
+    padding: 5px 20px;
+    font-size: 18px;
+    margin: 5px 10px 10px 5px;
+}
+
+button:hover,
+input[type="submit"]:hover {
+    background: black;
+}
